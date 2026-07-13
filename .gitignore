@@ -1,0 +1,6 @@
+__pycache__/
+.env
+archivos_exportados/
+graficos_estadisticos/
+.DS_Store
+
